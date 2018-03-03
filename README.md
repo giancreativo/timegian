@@ -13,12 +13,12 @@ Timegian toma la fecha para convertirla en minutos, horas y dias muy similar a t
 Timegian extrae la fecha para que en vez de mostrarse asi "10, de Junio del 2017" la muestre de la siguiente manera "Hace 10 meses".
 
 ### Como usarlo
-1. Primero, descarga el complemento JS y subelo a un hosting y luego pega el script despues de </head>
+1. Primero, descarga el archivo ```bygian.timegian.min.js``` que se encuentra en la carpeta source, alojalo en un hosteador y coloca el script despues de </body>
 
 ```html
 <script src="bygian.timegian.min.js" type="text/javascript"></script>
 ```
-si no tienes algun hosting para subir el archivo puedes usar este:
+si no tienes donde alojar el archivo ```bygian.timegian.min.js``` puedes usar el siguiente que te damos a disposición:
 
 ```html
 <script src="//cdn.rawgit.com/giancreativo/timegian/master/source/bygian.timegian.min.js" type="text/javascript"></script>
