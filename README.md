@@ -15,18 +15,18 @@ Timegian extrae la fecha para que en vez de mostrarse asi "10, de Junio del 2017
 ### Como usarlo
 1. Primero, descarga el complemento JS y subelo a un hosting y luego pega el script despues de </head>
 
-```
+```html
 <script src="bygian.timegian.js" type="text/javascript"></script>
 ```
 si no tienes algun hosting para subir el archivo puedes usar este:
 
-```
+```html
 <script src="bygian.timegian.js" type="text/javascript"></script>
 ```
 
 2. Este script funcionara dentro de los elementos time y dentro ella tendra el elemento span con su clase timegian, funcionando asi con un atributo que es el data-time que contendra la fecha y hora de acuerdo con el estándar ISO 8601:
 
-```
+```html
 <time><span class='timegian' data-time='2018-03-02 13:50:00'>Loading</span></time>
 ```
 
