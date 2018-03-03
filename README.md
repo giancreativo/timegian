@@ -27,7 +27,7 @@ si no tienes donde alojar el archivo ```bygian.timegian.min.js``` puedes usar el
 2. Este script funcionara dentro de los elementos time y dentro ella tendra el elemento span con su clase timegian, funcionando asi con un atributo que es el data-time que contendra la fecha y hora de acuerdo con el estándar ISO 8601:
 
 ```html
-<time><span class='timegian' data-time='2018-03-02 13:50:00'>Loading</span></time>
+<time><span class='timegian' data-time='2018-03-02 13:50:00'> </span></time>
 ```
 
 ## Versiones
